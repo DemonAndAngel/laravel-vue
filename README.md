@@ -1,6 +1,7 @@
 # imden-vue
 
-> A Vue.js project
+> 一个前后端分离的前端模板，基于laravel
+> 主要修改config下面index.js 文件
 
 ## Build Setup
 
